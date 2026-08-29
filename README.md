@@ -38,13 +38,7 @@ and building an end-to-end ML portfolio to transition into the field.
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
 ---
-
 ### Beyond the Code
 
 Chess ♟️ · Movies 🎬 · Music 🎧 · Cricket 🏏 · Basketball 🏀 · Gaming 🎮
